@@ -7,3 +7,5 @@
 
 <h2> My Languages </h2>
 <img src='https://skillicons.dev/icons?i=html,css,js' />
+
+<h2> My Projects and Repos </h2>

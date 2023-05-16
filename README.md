@@ -2,7 +2,7 @@
 <img src='Im_Starting.gif' />
 
 <img src='Tools.gif' />
-<img src='https://skillicons.dev/icons?i=vscode,git,github' />
+<img src='Tools_Items.gif' />
 
 <h2> My Languages </h2>
 <img src='https://skillicons.dev/icons?i=html,css,js' />

@@ -1,4 +1,4 @@
-<h1> Hi There! I'm Adrian! ✨ </h1>
+<img src='https://github.com/WhiteBBx/WhiteBBx/blob/main/Hi_There.gif?raw=true' />
 <p> I'm starting my adventure of programming.</p>
 <p> Now, I'm trying to learn the basics of frontend development, but I don't plan on stopping there! </p>
 

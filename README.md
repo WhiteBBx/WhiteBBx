@@ -1,5 +1,5 @@
 <img src='Hi_There.gif' />
-<img src='Im_starting.gif' />
+<img src='Im_Starting.gif' />
 
 <img src='Tools.gif' />
 <img src='https://skillicons.dev/icons?i=vscode,git,github' />

@@ -1,5 +1,5 @@
 <img src='Hi_There.gif' />
-<p> I'm starting my adventure of programming.</p>
+<img src='Im_starting.gif' />
 <p> Now, I'm trying to learn the basics of frontend development, but I don't plan on stopping there! </p>
 
 <h2> My Tools </h2>

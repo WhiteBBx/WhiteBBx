@@ -1,6 +1,5 @@
 <img src='Hi_There.gif' />
 <img src='Im_starting.gif' />
-<p> Now, I'm trying to learn the basics of frontend development, but I don't plan on stopping there! </p>
 
 <h2> My Tools </h2>
 <img src='https://skillicons.dev/icons?i=vscode,git,github' />
